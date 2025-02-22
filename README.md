@@ -6,15 +6,13 @@
 ## Ferramentas e Tecnologias
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"    width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-           
-          
-  <!-- Adicione mais ícones aqui conforme necessário -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" style="filter: invert(1);" alt="GitHub"/>
 </div>
 
 ## Contatos
@@ -37,8 +35,8 @@
 ## GitHub Stats ⚡
 
 <div>
-  <a href="https://github.com/seu-usuário-aqui">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <a href="https://github.com/jehu1914">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehu1914&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jehu1914&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
 </div>
