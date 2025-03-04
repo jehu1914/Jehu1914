@@ -25,7 +25,7 @@
   <a href="https://www.facebook.com/profile.php?id=61572637172460" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>  
-  <a href="mailto:victorsilor@creci.org.br">
+  <a href="mailto:victorsilordev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>  
   <a href="https://www.linkedin.com/in/victorsilot" target="_blank">
